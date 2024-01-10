@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSB.API", "WSB.API\WSB.API.csproj", "{5BE89EBC-4FCD-48B0-9DC2-84EE99504D15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSB.TestAPI", "WSB.TestAPI\WSB.TestAPI.csproj", "{D885D2C6-3580-4856-9A50-D6FEFF2AB8A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BE89EBC-4FCD-48B0-9DC2-84EE99504D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE89EBC-4FCD-48B0-9DC2-84EE99504D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE89EBC-4FCD-48B0-9DC2-84EE99504D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE89EBC-4FCD-48B0-9DC2-84EE99504D15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D885D2C6-3580-4856-9A50-D6FEFF2AB8A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D885D2C6-3580-4856-9A50-D6FEFF2AB8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D885D2C6-3580-4856-9A50-D6FEFF2AB8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D885D2C6-3580-4856-9A50-D6FEFF2AB8A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CEA04BE-25C2-475A-92BA-FA40625A4DB5}
+	EndGlobalSection
+EndGlobal
